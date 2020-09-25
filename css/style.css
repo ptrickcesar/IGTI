@@ -2,17 +2,14 @@
    width: 300px;
    height: 300px;
 } 
-
 .selector {
   margin: 10px;
   justify-content: space-between;
   display: flex;
   width: 450px;
 }
-
 strong {
   width: 120px;
-
 }
 body {
   margin-top: 100px;
